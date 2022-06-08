@@ -1,8 +1,8 @@
 # Bikesharing Analysis
 
 ## Dashboard Links
-[link to dashboard](https://public.tableau.com/shared/CT9BGNDHJ?:display_count=n&:origin=viz_share_link)
-[link to dashboard](https://public.tableau.com/app/profile/andy.mauvais/viz/NYCCitiBiki/NYCStory)
+[Citibike Story](https://public.tableau.com/shared/CT9BGNDHJ?:display_count=n&:origin=viz_share_link)
+[Citibike Dashboard](https://public.tableau.com/app/profile/andy.mauvais/viz/NYCCitiBiki/NYCStory)
 
 
 ### Overview of the analysis: Explain the purpose of this analysis.
@@ -21,7 +21,7 @@ Using data from August because there is likely more traffic during the summer mo
 
 ### Results: Using the visualizations you have in your Tableau Story, describe the results of each visualization underneath the image.
 Peak Hours:
-![image info](Analytics/Tableau/Visualizations/Peak_Hours.png)
+![Peak Hours](Imgaes/Peak_Hours.png)
 
 Shows which part of day the most bikes are needed (5:00pm - 7:00pm).
 
